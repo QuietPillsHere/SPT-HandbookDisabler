@@ -55,3 +55,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/ProjectEvaluation
+/.vs/SPT-HandbookDisabler.slnx
+/SPT.Lib/4.1
+/.editorconfig
+/SourceCode/Properties/PublishProfiles
